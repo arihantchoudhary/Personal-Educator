@@ -1,0 +1,7 @@
+PyPDF2
+pdf2image
+pytesseract
+moviepy
+openai
+python-dotenv
+langchain
